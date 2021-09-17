@@ -5,9 +5,9 @@ I'm student fullstack web developer. I spend most of time coding or watching tec
 📪 Reach me out !
 
 <div> 
-   <a href="https://www.youtube.com/channel/UCMtxsQv6NvdiZ_dA019ON-A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/linux9ine" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://tiktok.com/@linux9ine" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"      </a>
+   <a href="https://www.youtube.com/channel/UCMtxsQv6NvdiZ_dA019ON-A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://instagram.com/linux9ine"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://tiktok.com/@linux9ine"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"</a>
   
   ##  
   
