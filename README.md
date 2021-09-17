@@ -9,7 +9,7 @@ I'm student fullstack web developer. I spend most of time coding or watching tec
   
   ##  
   
-  * 🔭 I'm currently student about Web Development and create video to Youtuber
+  * 🔭 I'm currently student about Web Development and create video to Youtube
   * 👨🏿‍💻 Most used line of code ``` git commit -m " " ``` 
   * 📬 How to reach me: https://bit.ly/linux9ine
   * ⚡️ Fun fact: I play games and watch animes.
