@@ -39,5 +39,5 @@ I'm student fullstack web developer. I spend most of time coding or watching tec
 
 ##  
 
-  ![Snake animation](https://github.com/linux9ine/linux9ine/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/linux9ine/blob/output/github-contribution-grid-snake.svg)
 </div>
